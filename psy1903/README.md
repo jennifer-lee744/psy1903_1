@@ -1,5 +1,5 @@
 # psy1903
 
-## Your Name Here
+## Jenny Lee
 
 Course work for psy1903
